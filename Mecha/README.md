@@ -10,4 +10,4 @@ Game Modes:
     win condition are:
       Base destroyed
       Attrition bar ( overall life of the team ) is reduced to 0.
-      Enemy Mechs are worth more points, base destruction ends match outright. 
+      Enemy Mechs are worth more points, base destruction ends match outright.
